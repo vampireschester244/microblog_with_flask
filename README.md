@@ -1,6 +1,6 @@
 ## Microblog Application
 
-# To manage content writing and share among different users
+To manage content writing and share among different users
 
 ## FrondEnd:
  - HTML
